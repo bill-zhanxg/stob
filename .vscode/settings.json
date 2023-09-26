@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/607d9826-2c38-4dc8-a814-1cfdfd83dbbd/resourceGroups/Application/providers/Microsoft.Web/sites/Stob",
+    "appService.deploySubpath": "."
+}
