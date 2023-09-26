@@ -1,0 +1,20 @@
+{
+	"clientID": "",
+	"clientToken": "",
+	"deleteSlashCommand": false,
+	"webHooks": {
+		"feedback": "https://discord.com/api/webhooks/",
+		"error": "https://discord.com/api/webhooks/",
+		"event": "https://discord.com/api/webhooks/"
+	},
+	"mongoPath": "mongodb+srv://",
+	"notDisableCommands": [
+		"disablecommand",
+		"enablecommand",
+		"resetcommand",
+		"allserver",
+		"announce",
+		"error",
+		"send"
+	]
+}
