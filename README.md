@@ -1,4 +1,4 @@
-# Stob
+# Stob (my first ever discord bot)
 
 Support 2 client
 
