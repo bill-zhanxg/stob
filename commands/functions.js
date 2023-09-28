@@ -3,8 +3,7 @@ const NodeCache = require('node-cache');
 
 let cooldown = [];
 
-/** @type {NodeCache} */
-const cache = NodeCache({ stdTTL: 60 * 60 });
+const cache = new NodeCache({ stdTTL: 60 * 60 });
 
 let x = (module.exports = {
 	serverInvite: (message) => {
